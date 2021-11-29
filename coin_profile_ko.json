@@ -1,0 +1,18 @@
+{
+    "data": {
+        "updateMsg": {
+            "force": {
+                "msg": "원활한 서비스를 이용하시려면\n업데이트가 꼭 필요합니다.",
+                "subMsg": "업데이트 하시겠습니까?",
+                "button": "확인"
+            },
+            "optional": {
+                "msg": "원활한 서비스를 이용하시려면\n업데이트가 꼭 필요합니다.",
+                "subMsg": "업데이트 하시겠습니까?",
+                "buttonLeft": "취소",
+                "buttonRight": "확인"
+            }
+        }
+    },
+    "error": null
+}

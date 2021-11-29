@@ -1,0 +1,18 @@
+{
+    "data": {
+        "updateMsg": {
+            "force": {
+                "msg": "An update is required\nto use the service.",
+                "subMsg": "Do you want to update?",
+                "button": "Confirm"
+            },
+            "optional": {
+                "msg": "An update is required\nto use the service.",
+                "subMsg": "Do you want to update?",
+                "buttonLeft": "Cancel",
+                "buttonRight": "Confirm"
+            }
+        }
+    },
+    "error": null
+}
