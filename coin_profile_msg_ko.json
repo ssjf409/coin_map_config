@@ -1,5 +1,10 @@
 {
     "data": {
+        "confirm": "확인",
+        "cancel": "취소",
+        "clear": "삭제",
+        "english": "English",
+        "korean": "한국어",
         "updateMsg": {
             "force": {
                 "msg": "원활한 서비스를 이용하시려면\n업데이트가 꼭 필요합니다.",
@@ -12,7 +17,21 @@
                 "buttonLeft": "취소",
                 "buttonRight": "확인"
             }
-        }
+        },
+        "heatMap": {
+            "name": "히트 맵",
+            "top": "상위",
+            "currentValue": "현재 수"
+        },
+        "chart": {
+            "name": "코인 차트",
+            "coins": "코인",
+            "chooseCoins": "관심 코인 고르기",
+            "chartType": "차트 타입",
+            "chooseChartType": "차트 타입 고르기",
+            "chartCurrency": "차트 통화"
+        },
+        "refresh": "새로고침"
     },
     "error": null
 }

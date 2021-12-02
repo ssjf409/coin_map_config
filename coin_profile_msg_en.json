@@ -1,5 +1,10 @@
 {
     "data": {
+        "confirm": "Confirm",
+        "cancel": "Cancel",
+        "clear": "Clear",
+        "english": "English",
+        "korean": "한국어",
         "updateMsg": {
             "force": {
                 "msg": "An update is required\nto use the service.",
@@ -12,7 +17,21 @@
                 "buttonLeft": "Cancel",
                 "buttonRight": "Confirm"
             }
-        }
+        },
+        "heatMap": {
+            "name": "Heat map22",
+            "top": "Top",
+            "currentValue": "Current value"
+        },
+        "chart": {
+            "name": "Coin chart",
+            "coins": "Coins",
+            "chooseCoins": "Choose coins",
+            "chartType": "Chart type",
+            "chooseChartType": "Choose chart type",
+            "chartCurrency": "Chart currency"
+        },
+        "refresh": "Refresh"
     },
     "error": null
 }
