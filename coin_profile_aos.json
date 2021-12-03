@@ -5,7 +5,7 @@
         "update": false,
         "inReview": false,
         "updateLink": "https://ANDROID",
-        "supprotedLocales": [
+        "supportedLocales": [
             {
                 "name": "English",
                 "lang": "en",
