@@ -31,6 +31,10 @@
             "chooseChartType": "Choose chart type",
             "chartCurrency": "Chart currency"
         },
+        "share": {
+            "msg": "check out my website https://example.com",
+            "subject": "Look what I made!"
+        },
         "settingMsg": {
             "chartCoins": "Are you sure to delete all selected coins?",
             "reset": "Are you sure to reset all setting?"

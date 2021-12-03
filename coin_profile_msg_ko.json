@@ -31,6 +31,10 @@
             "chooseChartType": "차트 타입 고르기",
             "chartCurrency": "차트 통화"
         },
+        "share": {
+            "msg": "check out my website https://example.com",
+            "subject": "Look what I made!"
+        },
         "settingMsg": {
             "chartCoins": "선택한 코인을 모두 지우시겠습니까?",
             "reset": "모든 설정을 지우겠습니까?"
