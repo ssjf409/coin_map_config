@@ -31,7 +31,7 @@
             "chooseChartType": "차트 타입 고르기",
             "chartCurrency": "차트 통화"
         },
-        "shareMsg": {
+        "share": {
             "msg": "check out my website https://example.com",
             "subject": "Look what I made!"
         },

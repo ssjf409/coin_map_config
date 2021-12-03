@@ -31,7 +31,7 @@
             "chooseChartType": "Choose chart type",
             "chartCurrency": "Chart currency"
         },
-        "shareMsg": {
+        "share": {
             "msg": "check out my website https://example.com",
             "subject": "Look what I made!"
         },

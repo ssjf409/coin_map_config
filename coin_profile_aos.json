@@ -4,7 +4,19 @@
         "force": false,
         "update": false,
         "inReview": false,
-        "updateLink": "https://ANDROID"
+        "updateLink": "https://ANDROID",
+        "supprotedLocales": [
+            {
+                "name": "English",
+                "lang": "en",
+                "loc": "US"
+            },
+            {
+                "name": "한국어",
+                "lang": "ko",
+                "loc": "KR"
+            }
+        ]
     },
     "error": null
 }
