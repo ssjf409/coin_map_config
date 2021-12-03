@@ -31,9 +31,9 @@
             "chooseChartType": "Choose chart type",
             "chartCurrency": "Chart currency"
         },
-        "setting": {
-            "deleteMsg": "Clear selected coins",
-            "deleteAllMsg": "Clear all setting"
+        "settingMsg": {
+            "chartCoins": "Are you sure to delete all selected coins?",
+            "reset": "Are you sure to reset all setting?"
         },
         "refresh": "Refresh"
     },

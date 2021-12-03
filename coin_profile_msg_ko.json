@@ -31,9 +31,9 @@
             "chooseChartType": "차트 타입 고르기",
             "chartCurrency": "차트 통화"
         },
-        "setting": {
-            "deleteMsg": "선택된 코인 지우기",
-            "deleteAllMsg": "모든 설정 지우기"
+        "settingMsg": {
+            "chartCoins": "선택한 코인을 모두 지우시겠습니까?",
+            "reset": "모든 설정을 지우겠습니까?"
         },
         "refresh": "새로고침"
     },
