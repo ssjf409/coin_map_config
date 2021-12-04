@@ -42,7 +42,7 @@
         "info": {
             "title": "어플리케이션 정보",
             "email": {
-                "title": "[Coin Map] User Message",
+                "subject": "[Coin Map] User Message",
                 "recipients": "ssjf409@gmail.com",
                 "error": "기본 어플리케이션을 설정해주세요."
             },

@@ -42,7 +42,7 @@
         "info": {
             "title": "Application information",
             "email": {
-                "title": "[Coin Map] User Message",
+                "subject": "[Coin Map] User Message",
                 "recipients": "ssjf409@gmail.com",
                 "error": "Please set the default email application."
             },
