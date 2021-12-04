@@ -3,8 +3,8 @@
         "confirm": "Confirm",
         "cancel": "Cancel",
         "clear": "Clear",
-        "english": "English",
-        "korean": "한국어",
+        "languageCode": "en",
+        "countryCode": "US",
         "updateMsg": {
             "force": {
                 "msg": "An update is required\nto use the service.",
