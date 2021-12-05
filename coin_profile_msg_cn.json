@@ -1,35 +1,35 @@
 {
     "data": {
-        "confirm": "확인",
-        "cancel": "취소",
-        "clear": "삭제",
-        "languageCode": "ko",
-        "countryCode": "KR",
+        "confirm": "确认",
+        "cancel": "取消",
+        "clear": "删掉",
+        "languageCode": "cn",
+        "countryCode": "CN",
         "updateMsg": {
             "force": {
-                "msg": "원활한 서비스를 이용하시려면\n업데이트가 꼭 필요합니다.",
-                "subMsg": "업데이트 하시겠습니까?",
-                "button": "확인"
+                "msg": "为了使用顺利\n必须进行更新.",
+                "subMsg": "您要进行更新吗?",
+                "button": "确认"
             },
             "optional": {
-                "msg": "원활한 서비스를 이용하시려면\n업데이트가 꼭 필요합니다.",
-                "subMsg": "업데이트 하시겠습니까?",
-                "buttonLeft": "취소",
-                "buttonRight": "확인"
+                "msg": "为了使用顺利\n必须进行更新.",
+                "subMsg": "您要进行到底rrrr?",
+                "buttonLeft": "取消",
+                "buttonRight": "确认"
             }
         },
         "heatMap": {
-            "name": "히트맵",
-            "top": "상위",
-            "currentValue": "현재 수"
+            "name": "Heat Map",
+            "top": "顶点",
+            "currentValue": "当前值"
         },
         "chart": {
-            "name": "차트",
-            "coins": "코인",
-            "chooseCoins": "관심 코인 고르기",
-            "chartType": "타입",
-            "chooseChartType": "차트 타입 고르기",
-            "chartCurrency": "통화"
+            "name": "图表",
+            "coins": "",
+            "chooseCoins": "关注",
+            "chartType": "图标类型",
+            "chooseChartType": "选择图标类型",
+            "chartCurrency": "图标货币"
         },
         "share": {
             "msg": "check out my website https://example.com",
@@ -42,7 +42,7 @@
         "info": {
             "title": "어플리케이션 정보",
             "email": {
-                "title": "이메일로 개발자에게 연락하기",
+                "title": "Contact the developer by email",
                 "subject": "[Coin Map] User Message",
                 "recipients": "ssjf409@gmail.com",
                 "error": "기본 어플리케이션을 설정해주세요."
