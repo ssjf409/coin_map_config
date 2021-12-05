@@ -27,9 +27,9 @@
             "name": "チャート",
             "coins": "コイン",
             "chooseCoins": "お気に入りのコイン選択",
-            "chartType": "チャートタイプ",
+            "chartType": "タイプ",
             "chooseChartType": "チャートタイプ選択",
-            "chartCurrency": "チャート通貨"
+            "chartCurrency": "通貨"
         },
         "share": {
             "msg": "check out my website https://example.com",

@@ -27,9 +27,9 @@
             "name": "图表",
             "coins": "",
             "chooseCoins": "关注",
-            "chartType": "图标类型",
+            "chartType": "类型",
             "chooseChartType": "选择图标类型",
-            "chartCurrency": "图标货币"
+            "chartCurrency": "货币"
         },
         "share": {
             "msg": "check out my website https://example.com",
