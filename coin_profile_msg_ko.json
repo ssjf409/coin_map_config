@@ -19,7 +19,7 @@
             }
         },
         "heatMap": {
-            "name": "히트 맵",
+            "name": "히트맵",
             "top": "상위",
             "currentValue": "현재 수"
         },
@@ -27,9 +27,9 @@
             "name": "차트",
             "coins": "코인",
             "chooseCoins": "관심 코인 고르기",
-            "chartType": "차트 타입",
+            "chartType": "타입",
             "chooseChartType": "차트 타입 고르기",
-            "chartCurrency": "차트 통화"
+            "chartCurrency": "통화"
         },
         "share": {
             "msg": "check out my website https://example.com",

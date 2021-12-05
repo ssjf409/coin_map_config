@@ -27,9 +27,9 @@
             "name": "Chart",
             "coins": "Coins",
             "chooseCoins": "Choose coins",
-            "chartType": "Chart type",
+            "chartType": "Type",
             "chooseChartType": "Choose chart type",
-            "chartCurrency": "Chart currency"
+            "chartCurrency": "Currency"
         },
         "share": {
             "msg": "check out my website https://example.com",
