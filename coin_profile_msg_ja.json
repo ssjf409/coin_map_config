@@ -42,7 +42,7 @@
         "info": {
             "title": "アプリケーション情報",
             "email": {
-                "title": "Contact the developer by email",
+                "title": "開発者にメールでお問い合わせ",
                 "subject": "[Coin Map] User Message",
                 "recipients": "ssjf409@gmail.com",
                 "error": "基本アプリケーションを設定してください。"
