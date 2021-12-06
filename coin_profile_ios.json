@@ -15,6 +15,16 @@
                 "name": "한국어",
                 "lang": "ko",
                 "loc": "KR"
+            },
+            {
+                "name": "中文",
+                "lang": "zh",
+                "loc": "CN"
+            },
+            {
+                "name": "日本語",
+                "lang": "ja",
+                "loc": "JP"
             }
         ]
     },
