@@ -19,7 +19,7 @@
             }
         },
         "heatMap": {
-            "name": "Heat Map",
+            "name": "热图",
             "top": "顶点",
             "currentValue": "当前值"
         },
