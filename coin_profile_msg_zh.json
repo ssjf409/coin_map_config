@@ -32,8 +32,8 @@
             "chartCurrency": "货币"
         },
         "share": {
-            "msg": "check out my website https://example.com",
-            "subject": "Look what I made!"
+            "msg": "硬币投资的见解\nhttps://play.google.com/store/apps/details?id=com.atomic_logic.coin_map",
+            "subject": "硬币地图"
         },
         "settingMsg": {
             "chartCoins": "您确定要将选中的硬币全部删除吗?",

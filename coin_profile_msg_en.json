@@ -32,8 +32,8 @@
             "chartCurrency": "Currency"
         },
         "share": {
-            "msg": "check out my website https://example.com",
-            "subject": "Look what I made!"
+            "msg": "Insights for Coin Investing\nhttps://play.google.com/store/apps/details?id=com.atomic_logic.coin_map",
+            "subject": "Coin Map"
         },
         "settingMsg": {
             "chartCoins": "Are you sure to delete all selected coins?",

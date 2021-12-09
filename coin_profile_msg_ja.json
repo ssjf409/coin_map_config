@@ -32,8 +32,8 @@
             "chartCurrency": "通貨"
         },
         "share": {
-            "msg": "check out my website https://example.com",
-            "subject": "Look what I made!"
+            "msg": "コイン投資のための洞察力\nhttps://play.google.com/store/apps/details?id=com.atomic_logic.coin_map",
+            "subject": "コインマップ"
         },
         "settingMsg": {
             "chartCoins": "選択したコインを全て消しますか?",

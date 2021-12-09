@@ -32,8 +32,8 @@
             "chartCurrency": "통화"
         },
         "share": {
-            "msg": "check out my website https://example.com",
-            "subject": "Look what I made!"
+            "msg": "코인 투자를 윈한 통찰력\nhttps://play.google.com/store/apps/details?id=com.atomic_logic.coin_map",
+            "subject": "코인 맵"
         },
         "settingMsg": {
             "chartCoins": "선택한 코인을 모두 지우시겠습니까?",
