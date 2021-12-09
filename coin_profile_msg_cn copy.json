@@ -1,0 +1,58 @@
+{
+    "data": {
+        "confirm": "确认",
+        "cancel": "取消",
+        "clear": "删掉",
+        "languageCode": "zh",
+        "countryCode": "CN",
+        "updateMsg": {
+            "force": {
+                "msg": "为了使用顺利\n必须进行更新.",
+                "subMsg": "您要进行更新吗?",
+                "button": "确认"
+            },
+            "optional": {
+                "msg": "为了使用顺利\n必须进行更新.",
+                "subMsg": "您要进行更新吗?",
+                "buttonLeft": "取消",
+                "buttonRight": "确认"
+            }
+        },
+        "heatMap": {
+            "name": "Heat Map",
+            "top": "顶点",
+            "currentValue": "当前值"
+        },
+        "chart": {
+            "name": "图表",
+            "coins": "币",
+            "chooseCoins": "关注",
+            "chartType": "类型",
+            "chooseChartType": "选择类型",
+            "chartCurrency": "货币"
+        },
+        "share": {
+            "msg": "check out my website https://example.com",
+            "subject": "Look what I made!"
+        },
+        "settingMsg": {
+            "chartCoins": "您确定要将选中的硬币全部删除吗?",
+            "reset": "删除全部设置吗？"
+        },
+        "info": {
+            "title": "软件信息",
+            "email": {
+                "title": "通过电子邮件联系开发者",
+                "subject": "[Coin Map] User Message",
+                "recipients": "ssjf409@gmail.com",
+                "error": "请设置默认应用程序。"
+            },
+            "disclaimer": {
+                "title": "主要免责条款",
+                "msg": "本公司的网页, 参照网站、相关应用程序、论坛、博客、社交媒体账号及其他平台（“网站”）提供的信息，仅以向您提供一般信息为目的。 我公司不保证我公司的任何内容（包含准确性和最新性但不限于此）。 本公司提供的任何内容，不构成您以任何目的特定可依赖的财务建议、法律建议或其他所有形式的建议。 对本公司内容的所有使用或依赖，都是根据您自己的判断，您在依赖本公司内容之前，要自行调查、研究、分析、验证。 交易是可能发生重大损失的危险活动。 因此，在做出决定之前，请先与本人的财务管理者商议。 本公司网站的所有内容并非为了建议或提案。"
+            }
+        },
+        "refresh": "刷新"
+    },
+    "error": null
+}
